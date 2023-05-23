@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/AlontayE1/AlontayE1/main/header.png)
-<h1 align="center">Hi 👋, I'm Alontay Ellis</h1>
+<h1 align="center">Hi 👋🏾, I'm Alontay Ellis</h1>
 <h3 align="center">An AWS Partner Solutions Architect from California but lives in Austin,TX</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alontaye1&label=Profile%20views&color=0e75b6&style=flat" alt="alontaye1" /> </p>
